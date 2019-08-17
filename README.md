@@ -2,4 +2,4 @@
 
 Vim Configurations
 
-My setted .vimrc
+My set .vimrc
