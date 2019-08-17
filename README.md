@@ -1,3 +1,5 @@
 # Vim
-Vim Configurations 
+
+Vim Configurations
+
 My setted .vimrc
