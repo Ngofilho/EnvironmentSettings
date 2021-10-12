@@ -1,4 +1,4 @@
-# .vimrc files repository    
+# Environment Settings and Preferences    
 
 A customised .vimrc files for OS.
 
