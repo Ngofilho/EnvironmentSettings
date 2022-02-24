@@ -36,7 +36,9 @@ Collection of environment settings and preferences for different applications on
 <details><summary>Linux</summary>   
 
    <details><summary>Tmux</summary>        
-</details>
+
+   [![](https://github.com/Ngofilho/dotfiles/blob/assets/TMUX/tmux.png)]()
+   </details>
    </details>
 <details><summary>MacOS</summary></details>
 <details><summary>Windows</summary>
