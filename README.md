@@ -32,11 +32,24 @@ Collection of environment settings and preferences for different applications on
    </details>
 </details>
 
-<details><summary>Linux</summary></details>
+<details><summary>Linux</summary>   
+
+   <details><summary>Tmux</summary>        
+</details>
+   </details>
 <details><summary>MacOS</summary></details>
 <details><summary>Windows</summary>
    
    
+   <details><summary>Windows Terminal</summary>        
+   
+[Powershell Profile](https://github.com/Ngofilho/dotfiles/blob/assets/WindowsTerminal/Microsoft.PowerShell_profile.ps1)   
+[Customization](https://github.com/Ngofilho/dotfiles/blob/assets/WindowsTerminal/nilo.omp.json)   
+###### Reference(s)/Source(s)/Credit(s)/Other(s)  
+[Video Reference](https://www.youtube.com/watch?v=5-aK2_WwrmM&t=121s)
+      
+      
+   </details>
    <details><summary>Vim</summary>        
       
 1. Install any plugin manager      
@@ -48,9 +61,10 @@ Collection of environment settings and preferences for different applications on
 7. Setup NERDTree plugin initialization to *.vimrc* file      
       
    </details>      
-   
+   <details><summary>Cmder</summary>        
 [Reference to Cmder setting path error](https://github.com/cmderdev/cmder/issues/121#issuecomment-565360486)
 * Cmder prompt customization
    1. [Article explaining Cmder customization](https://amreldib.com/blog/CustomizeWindowsCmderPrompt/)
-   2. [AmrEldib Repo - Cmder,powerline, prompt](https://github.com/AmrEldib/cmder-powerline-prompt)
-</details>
+   2. [AmrEldib Repo - Cmder,powerline, prompt](https://github.com/AmrEldib/cmder-powerline-prompt)    
+   </details>
+   </details>
