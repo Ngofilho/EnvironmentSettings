@@ -5,8 +5,9 @@ Collection of environment settings and preferences for different applications on
 ###### Reference/Source/Others
 <details><summary>All</summary>
 
-[Reference to dictionary set up](https://www.vivaolinux.com.br/artigo/Corretor-Ortografico-no-Vim-Guia-definitivo)
-   
+   <details><summary>VIM Dictionary</summary>    
+   [Reference to dictionary set up](https://www.vivaolinux.com.br/artigo/Corretor-Ortografico-no-Vim-Guia-definitivo)
+   </details>   
    
    <details>
    <details><summary>Git global config</summary>    
