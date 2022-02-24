@@ -6,6 +6,12 @@ Collection of environment settings and preferences for different applications on
 <details><summary>All</summary>
 
 [Reference to dictionary set up](https://www.vivaolinux.com.br/artigo/Corretor-Ortografico-no-Vim-Guia-definitivo)
+   
+   
+   <details><summary>Vim Cheat Sheet</summary>   
+      
+   [![](https://github.com/Ngofilho/dotfiles/blob/master/Vim_Cheat_Sheet.png)]()   
+      </details>
 </details>
 
 <details><summary>Linux</summary></details>
