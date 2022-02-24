@@ -10,8 +10,13 @@ Collection of environment settings and preferences for different applications on
    
    <details><summary>Vim Cheat Sheet</summary>   
       
-   [![](https://github.com/Ngofilho/dotfiles/blob/master/Vim_Cheat_Sheet.png)]()   
-      </details>
+   [![](https://github.com/Ngofilho/dotfiles/blob/assets/Vim_Cheat_Sheet.png)]()   
+   [![](https://github.com/Ngofilho/dotfiles/blob/assets/kisspng-cheat-sheet-vim-paper-cheating-5ba3e6147cb1a4.2840358315374679245108.png)]()   
+   [![](https://github.com/Ngofilho/dotfiles/blob/assets/vi-teclado.png)]()         
+   [![](https://github.com/Ngofilho/dotfiles/blob/assets/vim_cheatsheet.png)]()   
+   [![](https://github.com/Ngofilho/dotfiles/blob/assets/VIM.png)]()         
+      
+   </details>
 </details>
 
 <details><summary>Linux</summary></details>
