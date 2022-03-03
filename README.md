@@ -5,21 +5,15 @@ Collection of environment settings and preferences for different applications on
 ###### Reference/Source/Others
 <details><summary>All</summary>
 
-   <details><summary>VIM Dictionary</summary>    
-   [Reference to dictionary set up](https://www.vivaolinux.com.br/artigo/Corretor-Ortografico-no-Vim-Guia-definitivo)
-   </details>   
+<details><summary>VIM Dictionary</summary>    
    
-   <details>
-   <details><summary>Git global config</summary>    
-   
-         https://gist.github.com/Ngofilho/a48a1f5828c707824b0f2e804b79b730.js
-   </details>
-      
-   <details><summary>Git hook to prepare commit message</summary>
+[Reference to dictionary set up](https://www.vivaolinux.com.br/artigo/Corretor-Ortografico-no-Vim-Guia-definitivo)
+</details>   
+
+<details><summary> Git configurations </summary>    
          
-      https://gist.github.com/Ngofilho/342d50241f3a02182941e0252da1ea89.js         
-   </details>
-   
+ [Git global config](https://gist.github.com/Ngofilho/a48a1f5828c707824b0f2e804b79b730.js)    
+ [Git hook to prepare commit message](https://gist.github.com/Ngofilho/342d50241f3a02182941e0252da1ea89.js)         
 </details>
    
    <details><summary>Vim Cheat Sheet</summary>   
