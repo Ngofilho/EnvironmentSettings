@@ -44,8 +44,8 @@ Place these files into user's document folder
 [Powershell Profile](https://github.com/Ngofilho/dotfiles/blob/assets/WindowsTerminal/Microsoft.PowerShell_profile.ps1)       
 [Customization](https://github.com/Ngofilho/dotfiles/blob/assets/WindowsTerminal/nilo.omp.json)        
 ###### Reference(s)/Source(s)/Credit(s)/Other(s)  
-[Video Reference](https://www.youtube.com/watch?v=5-aK2_WwrmM&t=121s)
-      
+[Video Reference](https://www.youtube.com/watch?v=5-aK2_WwrmM&t=121s)  
+[Takuya's dotfiles](https://github.com/craftzdog/dotfiles-public)      
       
    </details>
    <details><summary>Vim</summary>        
