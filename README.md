@@ -60,9 +60,44 @@ Place these files into user's document folder
             Get-AppXPackage *WindowsStore* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}  
          
          
-</details>
-      
-   </details>
+</details>  
+	   
+
+   </details>  
+
+<details><summary>Windows Shortcut</summary>   
+
+##### Windows  	
+**win+ctrl+d** -> Nova area de trabalho   
+**win+ctrl+seta lado** -> muda desktop   
+**win+ctrl+f4** -> fecha desktop   
+**win+m** -> minimiza a janela   
+**win+,** -> espia desktop   
+**win+d** -> mostra o desktop   
+**win+tab** -> verifica tudo que está aberto   
+**alt+ctrl+tab** -> disponibiliza a seleção entre janelas   
+
+
+##### Notepad  
+**ctrl+y** -> refaz  
+**ctrl+backspace** -> apaga palavra por palavra  
+
+##### Chrome  
+**win+.** -> abre a seleção ícones  
+
+##### Navegação  
+**Win+t** -> navega entre os itens da barra de tarefa  
+
+
+**alt+p** -> abre a pré-visualização  
+
+
+**win+shift+s** -> habilita a seleção de parte da tela para captura de imagens  
+**win+v** -> habilita a area de transferencia   
+
+**win+i** -> painel de controle  
+</details>      
+	
    <details><summary>Vim</summary>        
       
 1. Install any plugin manager      
