@@ -64,5 +64,6 @@ Place these files into user's document folder
 * Cmder prompt customization
    1. [Article explaining Cmder customization](https://amreldib.com/blog/CustomizeWindowsCmderPrompt/)
    2. [AmrEldib Repo - Cmder,powerline, prompt](https://github.com/AmrEldib/cmder-powerline-prompt)    
+   3. [Cmder Exported Config file](https://github.com/Ngofilho/dotfiles/blob/master/20211106_Cmder-Settings.xml)  
    </details>
    </details>
