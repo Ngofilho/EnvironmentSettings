@@ -46,6 +46,21 @@ Place these files into user's document folder
 ###### Reference(s)/Source(s)/Credit(s)/Other(s)  
 [Video Reference](https://www.youtube.com/watch?v=5-aK2_WwrmM&t=121s)  
 [Takuya's dotfiles](https://github.com/craftzdog/dotfiles-public)      
+      <details><summary>Powershell configuration</summary>  
+        
+         $env:USERPROFILE\.config
+	      powershell
+		      # config file
+		      user_profile.ps1
+		      # prompt customizations
+		      my.omp.json
+
+
+            Powershell cmdlet to install Windows Terminal on Windows 10
+            Get-AppXPackage *WindowsStore* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}  
+         
+         
+</details>
       
    </details>
    <details><summary>Vim</summary>        
