@@ -111,9 +111,9 @@ Place these files into user's document folder
    </details>      
    <details><summary>Cmder</summary>        
 [Reference to Cmder setting path error](https://github.com/cmderdev/cmder/issues/121#issuecomment-565360486)
-* Cmder prompt customization
-   1. [Article explaining Cmder customization](https://amreldib.com/blog/CustomizeWindowsCmderPrompt/)
-   2. [AmrEldib Repo - Cmder,powerline, prompt](https://github.com/AmrEldib/cmder-powerline-prompt)    
+* Cmder prompt customization   
+   1. [AmrEldib Repo - Cmder,powerline, prompt](https://github.com/AmrEldib/cmder-powerline-prompt) - Main instructions    
+   2. [Article explaining Cmder customization](https://amreldib.com/blog/CustomizeWindowsCmderPrompt/) - Article (old instructions)  
    3. [Cmder Exported Config file](https://github.com/Ngofilho/dotfiles/blob/master/20211106_Cmder-Settings.xml)  
    </details>
    </details>
