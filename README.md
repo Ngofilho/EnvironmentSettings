@@ -102,12 +102,13 @@ Place these files into user's document folder
       
 1. Install any plugin manager      
 2. Create folder named *.vim* inside user's $HOME dir      
-3. Create folder named *.vim* autoload      
-4. Create folder named *.vim* bundle          
+3. Create folder named **.vim\autoload** folder      
+4. Create folder named **.vim\bundle** folder         
 5. Clone NERDTree to *.vim\budle* folder          
-6. Create a file name *.vimrc* at user's $HOME dir    
+6. Create a file name *.vimrc* in user's $HOME dir    
 7. Setup NERDTree plugin initialization to *.vimrc* file      
-      
+ps. To use vim from `c:\program files\Git\usr\bin` folder, follow the steps above from 1 to 7.    
+
    </details>      
    <details><summary>Cmder</summary>        
 [Reference to Cmder setting path error](https://github.com/cmderdev/cmder/issues/121#issuecomment-565360486)
